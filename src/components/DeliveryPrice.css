@@ -1,0 +1,36 @@
+.price-del-container .price-del-text
+{
+    width: 100px;
+    justify-content: right;
+}
+.price-del-container .zona-text
+{
+    width: 200px;
+    justify-content: left;
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+}
+.price-del-container
+{
+    width: 390px;
+}
+.ul-del
+{
+    width: 300px;
+    font-size: 18px;
+    margin-bottom: 100px;
+}
+.price-del-text
+{
+    font-size: 20px;
+    font-weight: 600;
+    color: #707070;
+}
+.ul-del li
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+}
+

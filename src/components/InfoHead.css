@@ -1,0 +1,23 @@
+.info-head
+{
+    position: fixed;
+    left: 0;
+    top: 0;
+    padding-left: 10px;
+    /* background-color: #58B96D; */
+    width: 100vw;
+    height: 77px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: white;
+    box-shadow: 0px 1px 1px rgba(44, 125, 60, 0.494);
+}
+.info-tittle
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #58B96D;
+    margin-left: 20px;
+}

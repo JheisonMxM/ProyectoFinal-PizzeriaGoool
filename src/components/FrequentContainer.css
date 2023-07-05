@@ -1,0 +1,19 @@
+.frequent-cont {
+  position: relative;
+  top: 100px;
+  overflow-y: scroll;
+  z-index: 0;
+}
+.card-frequent-cont {
+  background: linear-gradient(
+    180deg,
+    rgba(233, 190, 70, 0.7) 0%,
+    rgba(233, 190, 70, 0.56) 100%
+  );
+  border-radius: 30px;
+  margin: 24px;
+  display: flex;
+  padding: 30px 20px;
+  flex-direction: column;
+  gap: 30px;
+}

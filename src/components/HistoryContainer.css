@@ -1,0 +1,19 @@
+.history-container {
+  position: relative;
+  top: 100px;
+  overflow-y: scroll;
+  z-index: 0;
+}
+.history-card-container {
+  background: linear-gradient(
+    180deg,
+    #d5d765 0%,
+    rgba(213, 215, 101, 0.8) 100%
+  );
+  border-radius: 30px;
+  margin: 24px;
+  display: flex;
+  padding: 30px 20px;
+  flex-direction: column;
+  gap: 30px;
+}

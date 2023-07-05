@@ -1,0 +1,7 @@
+.sng{
+    align-items: center; 
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    flex-wrap: nowrap;
+}

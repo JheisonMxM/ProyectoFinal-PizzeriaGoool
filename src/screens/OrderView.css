@@ -1,0 +1,11 @@
+.order-view-cont {
+  width: 100vw;
+  background: #ebcd79;
+  border: 2px solid #fbbc04;
+  border-radius: 30px;
+  margin: 150px 35px;
+  padding: 55px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

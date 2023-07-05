@@ -1,0 +1,13 @@
+.menu-cards
+{
+    width: 334px;
+    height: 190px;
+    border-radius: 32px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.menu-cards img
+{
+    width: 334px;
+    height: 190px;
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "imgsrc": "/static/images/cocacola.png",
+        "title": "Coca Cola",
+        "description": "2L, 1L, 700ml, 500ml, 300ml",
+        "price": "15"
+    },
+    {
+        "id": 2,
+        "imgsrc": "/static/images/cocacola.png",
+        "title": "Fanta",
+        "description": "2L, 1L, 700ml, 500ml, 300ml",
+        "price": "15"
+    },
+    {
+        "id": 3,
+        "imgsrc": "/static/images/cocacola.png",
+        "title": "Pepsi",
+        "description": "2L, 1L, 700ml, 500ml, 300ml",
+        "price": "15"
+    },
+    {
+        "id": 4,
+        "imgsrc": "/static/images/cocacola.png",
+        "title": "Coca Cola",
+        "description": "2L, 1L, 700ml, 500ml, 300ml",
+        "price": "15"
+    },
+    {
+        "id": 5,
+        "imgsrc": "/static/images/cocacola.png",
+        "title": "Fanta",
+        "description": "2L, 1L, 700ml, 500ml, 300ml",
+        "price": "15"
+    },
+    {
+        "id": 6,
+        "imgsrc": "/static/images/cocacola.png",
+        "title": "Pepsi",
+        "description": "2L, 1L, 700ml, 500ml, 300ml",
+        "price": "15"
+    }
+]

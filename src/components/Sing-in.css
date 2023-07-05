@@ -1,0 +1,105 @@
+/* Cuenta-Iniciada */
+.sing_container{
+    
+    width: 500px;
+    height: 900px;
+    background: linear-gradient(180deg, #13802a 0%, rgba(16, 94, 33, 0.7) 100%);
+
+
+    }
+    .box_sing{
+        flex-direction: row;
+        align-items: central;
+        padding: 5px 25px;
+        position: block;
+        width: 280px;
+        height: 50px;
+        margin-left: 20px;
+        margin-top: 300px;
+        background: #58B96D;
+        border-radius: 60px;
+        }
+    .restaurant-tittle-sing{
+    /* PIZZA GOOOL */
+    font-family: 'Poppins', sans-serif;
+    width: 202px;
+    height: 45px;
+    font-weight: 800;
+    font-size: 30px;
+    color: #116930;
+    margin-top: -45px;
+    margin-left: 60px;
+    line-height: 45px;
+    order: 1;
+    flex-grow: 0;
+    }
+    
+    .sing-snap{
+    width: 350px;
+    height: 50px;
+    margin-top: 25px;
+    margin-left: -40px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    }
+    .sing-snap2
+    {
+    width: 150px;
+    height: 200px;
+    margin-top: 210px;
+    margin-left: 110px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 10px;
+    display: flex;
+    text-align: center;
+    color: #000000;
+    }
+    
+    
+    img {
+        height: 43px;
+        width: 34px;
+        left: 25px;
+        top: 11px;
+        border-radius: 0px;  
+    }
+    .icon-check
+    {
+        margin: 0px 0px 0px 250px;
+    }
+    
+    .back_button_singin
+{   
+
+  width: 32vw;
+  height: 60px;
+  margin-top: 220px;
+  margin-left: 118px;
+  background: #308a44;
+  border-radius: 50px;
+  border: 1px solid #58B96D;
+  font-family: 'Poppins', sans-serif;   
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 38px;
+    align-items: center;
+    text-align: center;
+    color: #F8B908;
+  
+}
+
+
+
+
+
+  
+

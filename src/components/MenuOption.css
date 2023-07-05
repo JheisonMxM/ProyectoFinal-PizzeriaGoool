@@ -1,0 +1,30 @@
+.option-container {
+  position: fixed;
+  top: 165px;
+  overflow-y: scroll;
+  height: calc(100vh - 180px);
+  width: 100%;
+}
+
+.type {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  line-height: 25px;
+  margin: 0px 24px 0px 24px;
+}
+.options {
+  font-size: 24px;
+  font-weight: 600;
+  color: #58b96d;
+}
+.pizza-card-container-janna
+{
+  background-color: #d5d765;
+  border-radius: 30px;
+  margin: 24px;
+  display: flex;
+  padding: 30px 20px;
+  flex-direction: column;
+  gap: 30px;
+}

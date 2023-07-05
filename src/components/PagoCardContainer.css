@@ -1,0 +1,22 @@
+.Pago-Card-Container {
+  width: 100vw;
+  position: relative;
+  top: 90px;
+  z-index: 0;
+}
+.titulo-escoger {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 33px;
+  color: #707070;
+  margin-left: 20px;
+}
+.card-con {
+  position: relative;
+  top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 70px;
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "imageurl": "../../static/pizzaimageS.png",
+        "pizza_name" : "Mexican",
+        "pizza_des" : "Ingredientes que va a llevar la pizza"
+    },
+    {
+        "id" : 2,
+        "imageurl": "../../static/pizzaimageS.png",
+        "pizza_name" : "Hawaiana",
+        "pizza_des" : "Ingredientes que va a llevar la pizza"
+    },
+    {
+        "id" : 3,
+        "imageurl": "../../static/pizzaimageS.png",
+        "pizza_name" : "Picante",
+        "pizza_des" : "Ingredientes que va a llevar la pizza"
+    },
+    {
+        "id" : 4,
+        "imageurl": "../../static/pizzaimageS.png",
+        "pizza_name" : "Tradicional",
+        "pizza_des" : "Ingredientes que va a llevar la pizza"
+    },
+    {
+        "id" : 5,
+        "imageurl": "../../static/pizzaimageS.png",
+        "pizza_name" : "Tradicional",
+        "pizza_des" : "Ingredientes que va a llevar la pizza"
+    },
+    {
+        "id" : 6,
+        "imageurl": "../../static/pizzaimageS.png",
+        "pizza_name" : "Tradicional",
+        "pizza_des" : "Ingredientes que va a llevar la pizza"
+    }
+]

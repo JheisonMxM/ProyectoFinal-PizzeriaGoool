@@ -1,0 +1,43 @@
+.LeftMenu
+{
+    width: 306px;
+    height: 844px;
+    background-color: #EBCD79;
+    padding: 15px 0px 0px 25px;
+}
+.tittle-arrow
+{
+    display: flex;
+}
+.ul-left-menu
+{
+    margin-top: 0px;
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: black;
+}
+.tittle-lat-menu
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    color: #3A8F4D;
+    font-size: 25px;
+    width: 199px;
+    height: 61px;
+}
+.LeftMenu ul
+{
+    padding: 50px 0px 0px 25px;
+}
+.ul-left menu li
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+}
+.icon-arrow
+{
+    margin: 0px 0px 0px 250px;
+}

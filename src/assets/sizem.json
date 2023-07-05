@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "imgsrc": "/static/images/pi1.png",
+        "title": "Mexicana",
+        "description": "Carne, Chorizo, Cebolla, Jalapeños.",
+        "number": 3,
+        "disponibility": "Disponible",
+        "price": ["40","64","97","125"]
+    },
+    {
+        "id": 2,
+        "imgsrc": "/static/images/pi2.png",
+        "title": "Parrillera",
+        "description": "Carne, Cebolla, Pimiento Morrón, Salsa Barbacoa.",
+        "number": 3,
+        "disponibility": "Disponible",
+        "price": ["40","64","97","125"]
+    },
+    {
+        "id": 3,
+        "imgsrc": "/static/images/pi3.png",
+        "title": "Hawaiana",
+        "description": "Jamón, Piña y Cherry.",
+        "number": 3,
+        "disponibility": "Disponible",
+        "price": ["40","64","97","125"]
+    },
+    {
+        "id": 4,
+        "imgsrc": "/static/images/pi5.png",
+        "title": "Suprema",
+        "description": "Jamón, Carne, Tomate, Pimiento Morrón.",
+        "number": 3,
+        "disponibility": "Disponible",
+        "price": ["40","64","97","125"]
+    },
+    {
+        "id": 5,
+        "imgsrc": "/static/images/pi6.png",
+        "title": "Honolulu",
+        "description": "Jamón, Salame, Locoto, Piña.",
+        "number": 3,
+        "disponibility": "Disponible",
+        "price": ["40","64","97","125"]
+    },
+    {
+        "id": 6,
+        "imgsrc": "/static/images/pi8.png",
+        "title": "Pizza Goool",
+        "description": "Jamón, Chorizo, Salame, Tomate, Pimiento Morrón, Aceitunas, Champiñon, Choclitos.",
+        "number": 3,
+        "disponibility": "Disponible",
+        "price": ["40","64","97","125"]
+    },
+    {
+        "id": 7,
+        "imgsrc": "/static/images/pi9.png",
+        "title": "Española",
+        "description": "Tocino ahumado, Jamón, Orégano, Champiñón, Salsa de Ajo.",
+        "number": 3,
+        "disponibility": "Disponible",
+        "price": ["40","64","97","125"]
+    },
+    {
+        "id": 8,
+        "imgsrc": "/static/images/pi11.png",
+        "title": "Clásica",
+        "description": "Jamón y Queso.",
+        "number": 3,
+        "disponibility": "Disponible",
+        "price": ["40","64","97","125"]
+    },
+    {
+        "id": 9,
+        "imgsrc": "/static/images/pi10.png",
+        "title": "Extravaganza",
+        "description": "Jamón,  Salame, Salchicha, Cebolla, Champiñón, Pimiento Morrón.",
+        "number": 3,
+        "disponibility": "Disponible",
+        "price": ["40","64","97","125"]
+    },
+    {
+        "id": 10,
+        "imgsrc": "/static/images/pi12.png",
+        "title": "Carnívora",
+        "description": "Carne, Chorizo, Salame.",
+        "number": 3,
+        "disponibility": "Disponible",
+        "price": ["40","64","97","125"] 
+    },
+    {
+        "id": 11,
+        "imgsrc": "/static/images/pi7.png",
+        "title": "Boliviana",
+        "description": "Jamón, Cebolla, Locoto, Aceitunas, Pimiento Morrón.",
+        "number": 3,
+        "disponibility": "Disponible",
+        "price": ["40","64","97","125"]
+    }
+]

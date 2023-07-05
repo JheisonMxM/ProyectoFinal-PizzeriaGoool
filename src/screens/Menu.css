@@ -1,0 +1,12 @@
+.page_container_menu
+{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    padding-top: 150px;
+    background: linear-gradient(180deg, #3A8F4D 0%, rgba(58, 143, 77, 0.8) 100%);
+}
+.menuApp-container
+{
+    margin-left: 45px;
+}

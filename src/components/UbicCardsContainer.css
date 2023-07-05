@@ -1,0 +1,10 @@
+.UbCards-container{
+    width: 100%;
+    height: 670px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: stretch;
+    flex-wrap: nowrap;
+}

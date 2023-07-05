@@ -1,0 +1,16 @@
+*{
+    width: 100%;
+    margin: 0ch;
+}
+.Sh-Cards-container{
+    width: 100%;
+    height: 670px;
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: #FFFFFF;
+margin: 77px 24px 97px 23px;
+align-content: stretch;
+margin: 7px 42px 94px 43px;
+}

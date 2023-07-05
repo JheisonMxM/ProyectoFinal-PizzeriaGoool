@@ -1,0 +1,16 @@
+.pago_container {
+  width: 140px;
+  height: 140px;
+  background: linear-gradient(360deg, #58b96d 0%, #3a8f4d 100%);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.tipo-pago {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 21px;
+}

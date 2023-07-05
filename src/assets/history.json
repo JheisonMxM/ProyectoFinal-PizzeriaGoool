@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "imgsrc": "/static/images/pi1.png",
+        "title": "Mexicana",
+        "description": "Carne, Chorizo, Cebolla, Jalapeños.",
+        "size": ["Mediana", "Grande", "Familiar", "Stadium"],
+        "price": ["40","64","97","125"]
+    },
+    {
+        "id": 2,
+        "imgsrc": "/static/images/pi2.png",
+        "title": "Parrillera",
+        "description": "Carne, Cebolla, Pimiento Morrón, Salsa Barbacoa.",
+        "size": ["Mediana", "Grande", "Familiar", "Stadium"],
+        "price": ["40","64","97","125"]
+    },
+    {
+        "id": 3,
+        "imgsrc": "/static/images/pi3.png",
+        "title": "Hawaiana",
+        "description": "Jamón, Piña y Cherry.",
+        "size": ["Mediana", "Grande", "Familiar", "Stadium"],
+        "price": ["40","64","97","125"]
+    }
+]

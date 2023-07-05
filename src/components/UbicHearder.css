@@ -1,0 +1,41 @@
+
+.UbiHearder-Container {
+  display: block;
+  width: 100vw;
+  height: 77px;
+  background-color: white;
+  align-items: center;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px rgba(17, 105, 48, 0.37);
+}
+.box-ubicacion{
+    width:301px ;
+    height:77px ;
+    background-color: white;
+    margin: 0px 89px 0px 0px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    align-content: stretch;
+}
+.box-ubicacion span{
+    width: 177px;
+    height: 43px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+transform: translate(-30%, 4%);
+
+color: #58B96D;
+}
+.box-ubicacion .icono{
+    transform: translate(-50%, 10%) 
+}
+

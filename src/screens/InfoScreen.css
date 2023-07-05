@@ -1,0 +1,28 @@
+.info-screen
+{
+    padding: 0;
+    margin: 0;
+}
+/* .info-container
+{
+    align-items: center;
+    justify-content: center;
+} */
+.yellow-text-info
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #F8B908;
+    margin: 95px 45px 0px 45px;
+    text-align: center;
+}
+.head-info
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #3A8F4D;
+    font-size: 22px;
+    text-decoration-line: underline;
+    margin: 10px 0px 10px 20px;
+}

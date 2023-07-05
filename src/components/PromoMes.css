@@ -1,0 +1,54 @@
+.PromoMes
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* position: relative; */
+    margin-top: 175px;
+    width: 100vw;
+    height: 234px;
+    background-image: linear-gradient(to right, #58B96D, #E9BE46);
+}
+.promoimage
+{
+    /* position: relative; */
+    right: 10%;
+    width: 250px;
+    height: 200px;
+    bottom: 10px;
+}
+.text-container
+{
+    /* position: relative; */
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    bottom: 20px;
+}
+.tittle-prom
+{
+    /* position: relative; */
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: #3A8F4D;
+    font-weight: 700;
+    text-shadow: 5px  5px 0 #FFC216;
+}
+.description-prom
+{
+    /* position: relative; */
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+}
+.price-prom
+{
+    /* position: relative; */
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color:  rgba(255, 0, 0, 0.23);
+    -webkit-text-stroke: 1px #FF0000;
+}
